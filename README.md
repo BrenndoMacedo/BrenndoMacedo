@@ -108,7 +108,7 @@ Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escala
 ### Projeto em Destaque
 
 <div align="center">
-  <a href="https://github.com/BrenndoMacedo/lista-de-compras">
+  <a href="[https://github.com/BrenndoMacedo/lista-de-compras](https://github.com/BrenndoMacedo/v0-lista-de-compras.git)">
     <img src="https://readme-stats-fast.vercel.app/api/pin/?username=BrenndoMacedo&repo=lista-de-compras&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br" alt="Lista de Compras" />
   </a>
 </div>
