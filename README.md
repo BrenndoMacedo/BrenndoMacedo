@@ -95,28 +95,6 @@ Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escala
 
 ---
 
-### Grafico de Contribuicoes
-
-<div align="center">
-  <a href="https://github.com/BrenndoMacedo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenndoMacedo&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1a3a5c" alt="Grafico de contribuicoes" />
-  </a>
-</div>
-
----
-
-### Projeto em Destaque
-
-<div align="center">
-  <a href="[https://github.com/BrenndoMacedo/lista-de-compras](https://github.com/BrenndoMacedo/v0-lista-de-compras.git)">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=BrenndoMacedo&repo=lista-de-compras&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br" alt="Lista de Compras" />
-  </a>
-</div>
-
-<p align="center"><b>Lista de Compras</b> - Sistema completo de gerenciamento de listas de compras e controle de produtos, construido com Next.js, TypeScript e PostgreSQL.</p>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" width="100%" />
