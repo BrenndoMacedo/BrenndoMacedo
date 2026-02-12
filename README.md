@@ -30,7 +30,7 @@ Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escala
 
 ---
 
-### Linguagens e Tecnologias
+### Linguagens
 
 <div align="center">
 
