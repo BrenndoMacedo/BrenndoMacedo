@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=BrenndoMacedo&color=58a6ff&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizacoes do perfil" />
+<img src="https://komarev.com/ghpvc/?username=BrenndoMacedo&color=58a6ff&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Visualizacoes do Perfil" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ### Sobre mim
 
-Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escal&aacute;veis. Tenho experi&ecirc;ncia com Node.js, TypeScript, bancos de dados relacionais e arquitetura de software. Atualmente, estou sempre em busca de novos desafios e aprendizados para evoluir como profissional na &aacute;rea de desenvolvimento.
+Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escalaveis. Tenho experiencia com Node.js, TypeScript, bancos de dados relacionais e arquitetura de software. Atualmente, estou sempre em busca de novos desafios e aprendizados para evoluir como profissional na area de desenvolvimento.
 
 ---
 
@@ -74,35 +74,24 @@ Sou desenvolvedor Back-End com foco em construir APIs robustas e sistemas escal&
 
 ---
 
-### Estat&iacute;sticas do GitHub
+### Estatisticas do GitHub
 
 <div align="center">
   <a href="https://github.com/BrenndoMacedo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenndoMacedo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&locale=pt-br" alt="Estat&iacute;sticas do GitHub" />
+    <img height="180em" src="https://readme-stats-fast.vercel.app/api?username=BrenndoMacedo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatisticas do GitHub" />
+  </a>
+  <a href="https://github.com/BrenndoMacedo">
+    <img height="180em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=BrenndoMacedo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
   </a>
 </div>
 
 <br />
 
-### Linguagens mais utilizadas
-
 <div align="center">
   <a href="https://github.com/BrenndoMacedo">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenndoMacedo&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
+    <img src="https://streak-stats.demolab.com/?user=BrenndoMacedo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&locale=pt_BR" alt="Sequencia de contribuicoes" />
   </a>
 </div>
-
----
-
-### Projeto em Destaque
-
-<div align="center">
-  <a href="https://github.com/BrenndoMacedo/lista-de-compras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrenndoMacedo&repo=lista-de-compras&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&locale=pt-br" alt="Lista de Compras" />
-  </a>
-</div>
-
-<p align="center"><b>Lista de Compras</b> &ndash; Sistema completo de gerenciamento de listas de compras e controle de produtos, constru&iacute;do com Next.js, TypeScript e PostgreSQL.</p>
 
 ---
 
